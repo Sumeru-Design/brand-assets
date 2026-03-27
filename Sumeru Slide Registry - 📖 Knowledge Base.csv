@@ -1,0 +1,1953 @@
+Sumeru Knowledge Base — Slide Content (Call 2: Content Generation),,,,,,
+Slide Path,Service,Sub-service,Display Name,Content Summary,Slide Content,Content Blocks
+  GENERAL,,,,,,
+about/global-presence,General,,Global Presence,Our global presence with some key statistics,"Global presence with direct service capability in 5 countries around the world:
+USA, Canada, Sweden, India, Australia
+
+20+ years in Business
+600+ Team Members
+75+ Ongoing Client Partnerships",
+about/overview-and-values,General,,About Sumeru — Overview & Values,About Sumeru Slide,"Legend has it that Sumeru is a sacred mountain at the centre of the universe - the heart of the physical and ethereal planes. 
+Today, Sumeru is the center of the digital and the physical world and has become a leading global IT and marketing consulting services company, empowering organizations worldwide through artificial intelligence (AI) and innovative, technology-led solutions that drive growth and transformation.
+
+""We love seeing organizations thrive as a result of our innovation, creativity, context-led solution capability and thought leadership. We believe when human excellence is guided by good intentions, we can create real impact and transformation.""
+
+Our Values:
+Curiosity, Commitment, Joy, Belonging, Awareness
+
+Innovation + Impact = Excellence",
+services/overview,General,,Services Overview,,"What We Do
+
+Agentic AI & Innovation
+Digital Customer Experience
+Data & Intelligent Analytics
+Digital Product Engineering
+Cybersecurity, Governance, Risk, & Compliance
+Talent Services
+
+Advisory,
+Technology,
+Managed Services,
+Talent 360
+
+Technologies:
+Salesforce Crest Consulting Partner
+Microsoft Solutions Partner
+Adobe,
+SAP,
+Amazon Web Services (AWS),
+Google Cloud Platform (GCP)
+ServiceNow",
+title/end,General,,Title Slide — End,"Has sumeru logo along with tagline on the top, Work with us in the center, and then the person contact details","Work with us!
+© 2026 All rights reserved
+Sumeru Inc  |  2636 S Hoover St  |  Los Angeles, CA
+90007",
+title/main,General,,Title Slide — Main,Has the sumeru logo and the main title of the deck,"Innovation Inspired by
+Human Excellence",
+  AI,,,,,,
+services/ai/ai-use-cases,AI,,AI Use Cases,Use Cases of Aura AI & Sparse AI in example industries,"Aura AI:
+
+From Static Content to Guided Decision Experiences - Retail — Retail websites are rich in content but poor at guidance. Customers struggle to find the right product, understand differences, and make confident purchase decisions—leading to high bounce rates and abandoned carts. 
+Outcome: 
+- Higher engagement and conversions driven by increased time on site and greater customer confidence.
+- Lower support dependency through effective self-service at key decision points.
+
+Improving Patient Engagement Without Adding Risk - Healthcare — Healthcare organizations publish extensive information that patients struggle to interpret. This results in confusion, repeated inquiries, and poor digital experience—without the ability to scale human support. 
+Outcome: 
+- Improved user experience and trust through clear, engaging digital interactions.
+- Scalable, always-on assistance that reduces administrative and support burden without added risk.
+
+Sparse AI:
+
+Intelligent Knowledge Activation - Industry Agnostic — Sparse AI turns static documents into a conversational knowledge layer, enabling natural-language Q&A with source-grounded, structured answers.
+Outcome: 
+- Faster, trusted knowledge access with cross-document semantic insights and citation-backed answers for compliance and decision-making.
+- Lower manual effort with stronger governance through improved auditability, transparency, and institutional trust.
+
+Activating Knowledge from Documents - Industry Agnostic — Sparse AI analyzes archived PDFs to create a semantic knowledge graph that enables natural-language Q&A, pre-built queries, cross-document answers with citations, analytics, and secure role-based access.
+Outcome: 
+- Faster, accurate access to trusted information with minimal manual review.
+- Increased productivity across knowledge-driven workflows.",
+services/ai/alchemi-studio/intro,AI,Alchemi Studio,Alchemi Studio — Intro,,"AlchemiStudio
+
+AlchemiStudio is a unified end-to-end platform for building, governing, and operating Agentic AI. ​
+This platform can define the org wide AI strategy for Ariat​
+
+Copliot - For Business Users:
+Collaborative AI Workspaces​
+Build and use Business copilots across functions​
+Enterprise Knowledge and skills​
+
+Console - For Dev Teams:
+AI Gateway and APIs​
+Access to multiple LLMs, Vector DB, Guardrails, Enterprise Apps​
+Tool registry and MCP​
+
+Compute - For Agent Runtime
+Sub-second provisioning and de-provisioning of runtime​
+Ephemeral sandboxes​
+Environment isolation​
+
+Cockpit - IT & Security:
+AI Governance, Gateway control & Observability​
+Identity and RBAC​
+FinOps and budgets​
+Compliance and Audit​",
+services/ai/approach,AI,,AI Approach,,"Our Approach for AI Custom Solutioning
+
+Outcome-Led Problem Engineering: Anchor on business outcomes, KPIs, and constraints to ensure AI delivers measurable value.
+Data-First & Responsible Design:  Evaluate data readiness, quality, privacy, and governance to reduce risk and accelerate delivery.
+Purpose-Built AI Architecture:  Design right-sized AI systems (LLMs, RAG, agents, ML) optimized for scale, cost, and performance.
+Modular Build & Enterprise Integration: Build secure, reusable AI services that integrate seamlessly into existing platforms and workflows.
+Trusted AI & Continuous Optimization: Embed explainability, monitoring, security, and feedback loops to continuously improve outcomes.
+
+Sumeru Promise: From strategy to scalable, trusted AI in production.",
+services/ai/aura-ai/intro,AI,Aura AI,Aura AI — Intro,A slide describing Aura AI and it's features and benefits,"Aura AI - A Sumeru Product
+
+AI Concierge:
+Aura transforms traditional content into a dynamic, conversational experience.
+It allows visitors to ask questions and receive personalized answers.
+Users can take actions through an intuitive chat-based interface.
+This is not just a feature; it’s a powerful method to enhance engagement, conversions, and support directly from your existing site.
+
+Features & Benefits:
+Conversational Content Experience
+Actionable, Conversational Engagement
+Hyper-personalization at Enterprise Scale
+Supports Mobile and Omnichannel Experiences
+Privacy and Security
+Boosts Conversion Rates
+Reduces Support Load
+Drives Deeper Insights",
+services/ai/capabilities,AI,,AI Capabilities,AI Capabilities,"Our AI Capabilities
+
+Consulting & Strategy
+Agent Development
+Governance, Monitoring, & Audit",
+services/ai/cover,AI,,AI Services — Cover,Cover slide for Agentic AI & Innovation,Agentic AI & Innovation,
+services/ai/cross-platform-expertise,AI,,AI Cross-Platform Expertise,,"Cross-Platform Agentic AI Expertise
+
+Our Agentic AI solutions are built to be modular, secure, and scalable — seamlessly integrating across your existing technology stack to meet industry-specific needs.
+
+Perception: Process inputs (text, voice, images) 
+Memory: Retrieve Knowledge, Context Awareness
+Reasoning: Agent cognition and decision-making
+Action: Execute tasks, call APIs, integrate systems
+RAG & Knowledge Ops: Intelligent document retrieval & semantic search
+Infrastructure & Hosting: Cloud-native scalability & deployment
+LLMOps & Governance: Monitoring, optimization, compliance
+AI Engineering Tools: Accelerate prototyping and AI-assisted development workflows",
+services/ai/dev-lifecycle,AI,,AI Dev Lifecycle,A circular flow diagram with 5 steps in the lifecycle,"Agent Development  Lifecycle -  Ideate & Create
+
+1. Ideate: Agent Design
+2. Create: Prompts & Instruction
+3. Test: Test, Experiment, & Optimize
+4. Deploy: Sandbox to Production
+5. Monitor: Analyze & Improve",
+services/ai/encollect/features,AI,Encollect,Encollect — Features,,"Features & Benefits
+
+End-to-End Collections Management: It ensures that all relevant information is interconnected, making it easier to track relationships and insights across documents.
+Automation of debt recovery workflows​:  This technology reduces manual effort, speeds up collections, and improves debt recovery for businesses.
+Support for multiple collection models​: Seamlessly link ideas, entities, and connections throughout various documents. This enhances support for diverse collection models.
+AI-driven engagement and decisioning: Connect concepts and entities across documents to boost AI-powered engagement and support smarter decision-making.
+Faster recovery of dues​: Quickly recovering dues can significantly improve cash flow for businesses, allowing them to reinvest in growth opportunities.
+Reduced operational costs​: By leveraging advanced algorithms, our AI debt recovery tool streamlines the collection process, significantly reducing the time and resources needed for follow-ups.
+Improved customer experience: Enhancing customer experience with our AI debt recovery tool means providing personalized communication that resonates with each individual.",
+services/ai/encollect/intro,AI,Encollect,Encollect — Intro,,"Automated Collection System: ENCollect
+AI-powered debt collection and recovery platform​
+
+Collection Models Supported: 
+1. End-to-end collections management​
+2. Data Intake, Agency Allocation, Agent Assignment, Audit Trails
+3. Receipts, Batches & Deposits ​
+4. Automation of debt recovery workflows​
+5. Support for multiple collection models​
+6. AI-driven engagement and decisioning to optimize collections",
+services/ai/schoolexl/intro,AI,SchoolExl,SchoolExl — Intro,,"SchoolEXL (logo image) 
+
+World's first Safest, Smartest and Curriculum-Alligned Agentic AI for Education
+
+Features:
+AI Learn, AI Mentor, AI DoubtBots, AI Insights, Visual Learning, Hands-On Learning
+
+FOR EDUCATORS: 
+86% Better Tracking Accuracy: Make data-driven academic decisions instantly.
+82% Higher Student Retention: Engage with multi-modal content and
+AI dashboards.
+
+FOR TEACHERS:
+65% Less Workload: Automate grading and report generation.
+70% Fast Lesson Prep: Create slides, notes & worksheets in minutes.
+
+FOR STUDENTS:
+78% Concept Clarity: Understand topics through interactive AI learning.
+2x More Engagement: Stay motivated through gamified, real-world learning.
+
+Backed by experts from Harvard University, Microsoft, OpenAI",
+services/ai/solutions,AI,,AI Solutions,"Logos of all 4 of our AI products (Aura AI, Sparse AI, EnCollect, and SchoolEXL along with their brief description","Agentic AI Solutions
+
+Aura AI: Aura makes your content conversational and conversion-ready.
+Sparse AI: Intelligent Document Processing -Turn documents into answers, fast and accurately.​
+EnCollect: AI-powered debt collection and recovery platform​
+SchoolExl: World's first Safest, Smartest and Curriculum-Alligned Agentic AI for Education",
+services/ai/solutions-2,AI,,AI Solutions — Page 2,"Logos of all 5 of our AI products (Alchemi Studio, Aura AI, Sparse AI, Flexbase, TrainEXL)","Agentic AI Solutions
+
+AlchemiStudio: Enterprise agentic AI control pane, designed to build and deploy agentic co-pilots and implement governance.
+Aura AI: Aura makes your content conversational and conversion-ready.
+Sparse AI: Intelligent Document Processing -Turn documents into answers, fast and accurately.​
+Flexbase: AI-MCP powered agent which transforms legacy application or BRD to production read, Enterprise grade .Net web applications
+TrainEXL: World’s first Safest, Smartest and Curriculum aligned Agentic AI for Corporate Trainings and Education",
+services/ai/sparse-ai/intro,AI,Sparse AI,Sparse AI — Intro,,"Sparse AI - A Sumeru Product
+
+Intelligent Document Processing:
+Sparse AI revolutionizes enterprise interactions with internal knowledge by converting static documents into dynamic, conversational insights.
+Users can pose natural language questions and receive visually enriched answers, including citations, diagrams, and region-based previews.
+Beyond intelligent search, Sparse AI equips organizations to leverage insights with integrated analytics, fostering smarter decisions, quicker workflows, and real-time knowledge activation.
+It also offers customizable access - control features, allowing organizations to tailor data access and data connectors for each individual.
+
+Featurs & Benefitsd:
+Knowledge Graph (KG)
+Smart Q&A
+Image Understanding
+Connect to Your Data Sources
+Analytics at Your Fingertips
+Cross-PDF KG & Analytics
+Seamless Integration",
+  CYBERSECURITY,,,,,,
+services/cybersecurity/ai-governance-security/cover,Cybersecurity,AI Governance & Security,AI Governance & Security — Cover,,Sumeru AI Governance and Security Services,
+services/cybersecurity/ai-governance-security/services,Cybersecurity,AI Governance & Security,AI Governance & Security — Services,,"Sumeru AI Governance & Security Services
+
+Future-ready your business with AI-driven defense
+
+Enterprise AI Governance & Risk:
+Design enterprise-wide AI governance, risk, and accountability frameworks aligned with ISO/IEC 42001, NIST AI RMF, and emerging AI regulations
+Define policies, decision rights, lifecycle controls, and operating models for responsible AI adoption
+
+ISO/IEC 42001 Certification & Governance Enablement:
+Assess readiness and design controls, documentation, and processes required for ISO/IEC 42001 certification
+Support certification preparation, audit alignment, and continuous governance maturity across the AI lifecycle
+
+AI Security Assesments:
+AI/ML asset inventory and risk profiling across models, data, and pipelines
+Threat modeling for model abuse, data leakage, and supply-chain risks
+
+Policy, Guardrails & Technical Controls for Gen AI:
+Definition of AI security policies, usage guardrails, and access controls
+Design of technical controls for data protection, model governance, and monitoring
+
+Adversarial testing of AI models & pipelines:
+Red-teaming of models for prompt injection, data poisoning, and model inversion
+Validation of training, deployment, and inference pipelines against abuse scenarios
+
+AI-Enhanced Threat Detection & Incident Response:
+Integration of AI-driven detection into existing SOC and IR workflows
+Playbooks for AI-related incidents, including model compromise and misuse
+
+AI Phishing & Awareness:
+AI-driven phishing risk assessments and attack simulations
+Targeted awareness and training for AI-enabled social engineering threats",
+services/cybersecurity/application-security/cover,Cybersecurity,Application Security,Application Security — Cover,,Application Security,
+services/cybersecurity/application-security/services,Cybersecurity,Application Security,Application Security — Services,,"Application Security:
+
+Validate defenses, fortify applications, and secure the full development lifecycle.
+
+Application Security:
+DevSecOps implementation
+Boman.ai
+Application Security Consulting - Threat Modelling, Code Review,
+Secure Development Lifecycle
+
+Boman.ai -  A Sumeru Product
+Shift-left security across SDLC with ASPM and DevSecOps services
+Boman.ai – Unified Application Security Posture Management (ASPM)
+
+Features:
+Unified AppSec View/ Vulnerability Management​
+Custom Rules Support / AI-Driven Secure SDLC/ Enterprise Role Flexibility with role-based access​
+Seamless Integration - works with all tools and platforms like CI/CD, Network Scanning, SAST, DAST, IaC, IAST, Cloud Security, AI subscriptions​
+Compliance: SBOM, SLA enforcement, audit-ready reports/ Data Privacy: Localized data with ""bring-your-own-key"" for AI
+
+For CISOs & Leaders: 
+Reduce tool sprawl and AppSec cost
+Get SLA, SBOM and audit-ready reports on demand
+Prove risk reduction to the board with clean metrics
+
+For Developers
+Prioritized, deduped vulnerabilities
+AI-powered fixes integrated into existing tools (Jira, Git, CI/CD)",
+services/cybersecurity/audit360,Cybersecurity,,Audit360,,"Audit 360
+Digital Internal Audit Management Solution​
+
+Audits/ Inspections/ Verifications built on check-lists​
+Omni-Domain and Fully-Digitized Solution
+
+30% enhanced audit efficiency - saves auditors time
+Ensures integrity, accuracy and timeliness - with digital evidence, real-time reporting, automated reminders/ notifications  
+Uncovers hidden risks with broader coverage
+
+From Check-list creation to Dashboards, the solution covers entire 360 degrees of the process​
+
+Highlights: Real-Time, Digital Reports, Dashboards, Off-Line Audits
+
+8 Countries, 10+ Business Domains, 50+ Clients, 170+ Audit Types
+
+Features:
+Quality Management, Compliance, Inspection, Certification, Verification, Audit, Survey
+
+Flow:
+1. Audit Planning
+2. Scheduling
+3. Audit Execution
+4. Report Preparation
+5. Audit Review & Finalisation
+6. Report  Circulation to Auditee
+7. Compliance Management
+8. Reminders & Escalations
+9. Reports & MIS",
+services/cybersecurity/capabilities,Cybersecurity,,Cybersecurity Capabilities,Cybersecurity Capabilities,"Our Cybersecurity Capabilities
+
+1. Sumeru Quantum Security (PQC) Services - Flagship
+2. Sumeru Certificate Lifecycle Management (CLM) Services - Flagship
+3. Sumeru AI Governance & Security Services - Flagship
+4. Cybersecurity Governance, Strategy, & Compliance
+5. Offensive Security
+6. Application Security
+7. Cloud, Identity Management, & Zero Trust Security
+8. Threat Detection, Response & External Attack Surface",
+services/cybersecurity/certificate/cover,Cybersecurity,Certificate,Certificate — Cover,,Sumeru Certificate Lifecycle Management Services,
+services/cybersecurity/certificate/intro,Cybersecurity,Certificate,Certificate — Intro,,"The Impending Future
+
+The Standards Authority Endorsing a 47-Day Certificate Lifetime 
+The CA/Browser Forum (the core standards body that defines public TLS/SSL rules) officially passed Ballot SC-081v3 in April 2025 to reduce certificate lifetimes to a 47-day maximum by 2029. 
+
+WHY IT MATTERS:
+The CA/B Forum is where certificate authorities (CAs) and browser maintainers like Apple, Google, Microsoft, and Mozilla coordinate web PKI standards. Their vote essentially makes 47-day validity a future requirement on the public internet. 
+Major browser vendors, backing the Policy.
+The reduction to 47 days was proposed by Apple.
+
+Previously championed in earlier drafts by Google. Voted in favor by all major browser vendors, including:",
+services/cybersecurity/certificate/services,Cybersecurity,Certificate,Certificate — Services,,"Sumeru Certificate life management Services
+
+Maintain trust by discovering, managing, and automating certificates across their entire lifecycle.
+
+1. Certificate & Cryptographic Discovery
+Discover and inventory certificates, keys, and cryptographic assets across environments 
+Identify blind spots, unmanaged certificates, and ownership gaps
+
+2. Crypto Posture & PKI Modernization
+Assess current PKI and certificate management maturity
+Define a modernization strategy aligned to security and operational goals
+
+3. CLM Architecture & Platform Design
+Design centralized, CA-agnostic CLM architectures
+Define integration patterns across on-prem, cloud, and hybrid environments
+
+4. Automation & Certificate Operations Enablement
+Enable automated issuance, renewal, and rotation workflows
+Reduce outage risk through policy-driven lifecycle automation
+
+5. HSM & Key Management Readiness
+Assess and design key management and HSM integration strategies
+Align key protection, lifecycle, and access controls with PKI operations
+
+6. Governance, Compliance & Operational Readiness
+Define CLM governance, policies, and audit-ready controls
+Establish operating models, roles, and escalation processes",
+services/cybersecurity/certificate/the-need,Cybersecurity,Certificate,Certificate — The Need,,"TLS Certificates Validity Reducing by 90%
+
+TODAY - 2026:
+- Certificate Validity: 398 days ~ 1 renewal / year
+- Domain/IP Validity: 398 days ~ 1 renewal / year
+- Organization Validity: 825 days ~ 0.4 renewals / year
+
+March 15 - 2026:
+- Certificate Validity: 200 days ~ 2 renewals / year
+- Domain/IP Validity: 200 days ~ 2 renewals / year
+- Organization Validity: 200 days ~ 2 renewals / year
+
+March 15 - 2027:
+- Certificate Validity: 100 days ~ 4 renewals / year
+- Domain/IP Validity: 100 days ~ 4 renewals / year
+
+March 15 - 2029:
+- Certificate Validity: 47 days ~ 9 renewals / year
+- Domain/IP Validity: 10 days ~ 39 renewals / year
+
+Source: https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/BR-SC081v3.pdf",
+services/cybersecurity/cloud-iam-zts/cover,Cybersecurity,Cloud IAM & Zero Trust,Cloud IAM & ZTS — Cover,,"Cloud, Identity Management & Zero Trust Security",
+services/cybersecurity/cloud-iam-zts/services,Cybersecurity,Cloud IAM & Zero Trust,Cloud IAM & ZTS — Services,,"Cloud, Identity Management & Zero Trust Security
+
+Secure every identity, workload, and connection — anywhere, anytime.
+
+Services: 
+Cloud Security & Posture Management
+Identity & Access Management (IAM)
+Enterprise Vulnerability Management
+Zero Trust Architecture
+Modern SOC, SIEM & SOAR",
+services/cybersecurity/cover,Cybersecurity,,Cybersecurity — Cover,Cybersecurity Services Cover,Sumeru Cybersecurity Services,
+services/cybersecurity/governance-strategy-compliance/cover,Cybersecurity,Governance & Compliance,"Governance, Strategy & Compliance — Cover",,"Cybersecurity Governance, Strategy, 
+& Compliance",
+services/cybersecurity/governance-strategy-compliance/services,Cybersecurity,Governance & Compliance,"Governance, Strategy & Compliance — Services",,"Cybersecurity Governance, Strategy, & Compliance
+
+Build resilience and trust through strategy, governance, and continuous compliance.
+
+Enterprise Risk Management
+Identify, prioritize, and reduce cyber risks aligned to business objectives.
+Third Party Risk Management
+Assess and control security risks introduced by vendors and partners.
+
+Cyber Strategy
+Build a clear, actionable security roadmap that supports growth and resilience.
+vCISO
+Executive-level security leadership without the cost of a full-time CISO.
+Security Team-as-a-Service
+On-demand security experts to extend or replace in-house capabilities.
+
+Security Compliance
+Achieve and maintain regulatory compliance with minimal business disruption.
+Audit Services
+Independent security audits to validate controls and uncover gaps.
+
+Internal Audits
+Proactive reviews to strengthen governance, controls, and risk posture.
+ISO, NIST CSF, PCI-DSS, SOC 2/3
+End-to-end readiness and certification support for leading security frameworks.
+Privacy Assessments
+Identify data privacy risks and align with global privacy regulations.",
+services/cybersecurity/offensive-security/cover,Cybersecurity,Offensive Security,Offensive Security — Cover,,Offensive Security,
+services/cybersecurity/offensive-security/services,Cybersecurity,Offensive Security,Offensive Security — Services,,"Offensive Security
+
+Continuously test your defenses, harden applications
+
+Penetration Testing: 
+End-to-end attack coverage
+Certified offensive experts
+Manual + automated testing
+Web, Mobile, API security
+Cloud & Kubernetes testing
+Network & desktop assessments
+Real-world attack simulation
+
+Red Team Assessment:
+Goal-oriented attack simulation
+Test the security resilience against targeted attacks
+Uncover serious gaps with tailored assignments
+Mitigate complex security vulnerabilities
+Evaluate security investments better
+
+Vulnerability Assessment: 
+Identify & prioritize security weaknesses across infrastructure, applications, and endpoints
+Deliver actionable remediation guidance to strengthen your security posture
+Continuous monitoring and reassessment to validate security improvements over time
+
+Digital Risk Assessment:
+Holistic evaluation of cyber threats, data exposure, and compliance gaps
+Assess business impact across digital services and attack surfaces
+Prioritize risk mitigation investments aligned with enterprise resilience goals
+
+We don’t test to generate reports. We test to reduce breach probability.",
+services/cybersecurity/pqc/actual-threat,Cybersecurity,Post-Quantum Cryptography,PQC — Actual Threat,,"So, What's the Actual Threat?
+
+Harvest now, decrypt later
+Breaking signatures (loss of nonrepudiation)
+Changes to identity and access management
+Loss of secure communications (e.g., breaking TLS)
+New zero-day vulnerabilities in custom coded applications",
+services/cybersecurity/pqc/cover,Cybersecurity,Post-Quantum Cryptography,PQC — Cover,,Sumeru Quantum Security ( PQC ) Services,
+services/cybersecurity/pqc/how-to-prepare,Cybersecurity,Post-Quantum Cryptography,PQC — How to Prepare,,"Preparing For Post-Quantum Cryptography
+
+US Department of Homeland Security emphasized “Through our partnership with NIST, DHS created a roadmap for those organizations who should be taking action now to prepare for a transition to post-quantum cryptography. This guide will help organizations create effective plans to ensure the continued security of their essential data against the post-quantum threat and prepare for the transition to the new post-quantum cryptography standard when published by NIST.”
+
+Commercial National Security Algorithm Suite 2.0 ( CNSA 2.0 ) formalizes the post-quantum transition approach recommended by DHS
+
+1. Engagement with Standards Organizations: Increase CIO standards engagement
+2. Inventory of Critical Data: Identify currently at-risk data
+3. Inventory of Cryptographic Technologies: Inventory all cryptographic systems
+4. Identification of Internal Standards: Update post-quantum standards
+5. Identification of Public Key Cryptography: Identify quantum-vulnerable systems
+6. Prioritization of Systems for Replacement: Prioritize systems for transition
+7. Plan for Transition: Develop post-quantum transition plans
+
+Timeline:
+2021 - 2023: Inventory and prioritize systems
+2024: NIST post-quantum cryptography standard published
+2024 - 2030: Transition of systems to NIST post-quantum cryptography standard
+2030: Cryptographically relevant quantum computer potentially available",
+services/cybersecurity/pqc/intro,Cybersecurity,Post-Quantum Cryptography,PQC — Intro,,"The Global Quantum Threat
+
+While classical computers are practically incapable of cracking existing cryptographic algorithms like RSA and ECC, researchers have shown that a cryptographically relevant quantum computer could crack it in a matter of hours.
+
+The National Institute of Standards and Technology Report on Post-Quantum Cryptography found that the first security breaches might come as soon as 2030.
+
+Gartner® predicts that by 2029, quantum computing will be in a position to weaken existing systems to the point that they are considered unsafe to use cryptographically.  
+Ethereum co-founder Vitalik Buterin has warned that “The elliptic curves securing Bitcoin and Ethereum “are going to die“. With a 20% probability that quantum computers could break current  cryptography before 2030, the crypto industry has less than four years  to migrate to quantum-resistant systems.”
+
+Sources: https://www.ibm.com/think/topics/quantum-safe-cryptography
+https://www.gartner.com/en/articles/post-quantum-cryptography
+https://www.cointribune.com/en/vitalik-buterin-sounds-the-alarm-quantum-threat-could-hit-ethereum-before-2028/",
+services/cybersecurity/pqc/offerings,Cybersecurity,Post-Quantum Cryptography,PQC — Offerings,,"What we offer: Sumeru Quantum Security (PQC) Services
+
+1. Post Quantum Risk Assessment & Roadmap: 
+Assess quantum exposure across cryptographic assets and data lifecycles
+Deliver a prioritized, risk-based PQC remediation plan
+
+2. Cryptographic Discovery & Inventory 
+Identify certificates, keys, algorithms, and cryptographic dependencies
+Produce an enterprise Cryptographic Bill of Materials (CBOM)
+
+3. Quantum-Safe Architecture & Crypto-Agility Design
+Design quantum-safe and hybrid cryptographic reference architectures
+Establish crypto-agility principles to support future algorithm changes
+
+4. PQC Integration & Migration 
+Define migration approaches from quantum-vulnerable cryptography to PQC
+Guide hybrid cryptography adoption across PKI and infrastructure
+
+PKI, Key Management & HSM: Design PQC-capable PKI and certificate lifecycle strategies
+Advise on quantum-resistant key management and HSM integration
+
+Operational Readiness, Validation & Rollout Support: Support PQC pilots, validation, and performance assessments
+Enable governance, compliance alignment, and enterprise rollout planning",
+services/cybersecurity/pqc/the-need,Cybersecurity,Post-Quantum Cryptography,PQC — The Need,,"Quantum Computing Will Allow Very Fast Key Breaking
+
+The Bad News:
+Asymmetric keys (RSA/ECC) are both vulnerable.
+Symmetric keys are vulnerable but much less so.
+More than 60% of organizations lack awareness of certificates and keys Across their digital assets
+
+The Good News:
+Key breaking takes a lot of qubits, even for modest length RSA keys.
+We expect the damage won't be serious until the end of the decade (i.e., in the period between 2028 and 2031).
+We have had to change algorithms before.
+
+Source: https://www.appviewx.com/news/new-appviewx-research-reveals-more-than-60-of-organizations-lack-awareness-of-certificates-and-keys-across-their-digital-assets/",
+services/cybersecurity/testimonials,Cybersecurity,,Cybersecurity Testimonials,Cybersecurity Client Testimonials,"Testimonials
+
+""Sumeru has assisted us in our ISO 27001 journey and has tailored a unique training module for our internal auditors. Their trainers are very committed, competent and professional and we have benefited immensely from our engagement with Sumeru."" - Sandeep Gangolli, LNTEBG
+
+""Top class professionalism has been consistently shown by Sumeru in planning, execution and report delivery of Information Security assignments."" Shangri-La
+
+""Sumeru is our Information security partner! Their ability to align service delivery to business goals has directly helped us add value to our customers. It is this approach that makes Sumeru different from other vendors."" - Paruchi Raghukumar, TATA Power
+
+""Matrix Business Services India Pvt Ltd has been associated with Sumeru for the last 5 years. With their eﬀective guidance, we obtained ISO 27001 certiﬁcation, which improved our Information Security Standards and resulted in client satisfaction. Our experience with them and their team is very satisfactory."" - TNGayathri, GM, Matrix Business Services",
+services/cybersecurity/threat-detection/cover,Cybersecurity,Threat Detection,Threat Detection — Cover,,"Threat Detection, Response & External Attack Surface",
+services/cybersecurity/threat-detection/services,Cybersecurity,Threat Detection,Threat Detection — Services,,"Threat Detection, Response & External Attack Surface
+
+Detect exposed assets, emerging threats, and attacker activity before impact
+
+Proactive Threat Hunting & Detection Engineering:
+Detect stealthy threats already inside
+Understand attacker TTPs
+Hypothesis-driven hunts mapped to MITRE ATT&CK
+Feed learnings into SIEM/SOAR & playbooks
+
+External Attack Surface Management (EASM)
+Powered by Threat Meter
+
+AI-Driven External Attack Surface Management
+Continuous, outside-in monitoring of your internet-facing risk.
+
+Key Outcomes: 
+Continuous External Attack Surface Monitoring → Domains, IPs, Cloud, Ports, Apps, Social Profiles​
+Deep Web Monitoring → Detect exposed credentials, source code, sensitive data​
+Brand & Reputation Protection → Spot impersonating domains, fake apps, social profiles​
+Phishing Threat Detection → Identify typo-squatting, phishing domains, and pages early​
+Rogue App Detection → Track untrusted, repackaged, or rogue mobile apps​
+Public Video Leak Detection → Discover sensitive info in shared videos (YouTube, Vimeo, etc.)",
+services/cybersecurity/why,Cybersecurity,,Why Cybersecurity,,"Why Sumeru Cybersecurity?
+
+1000+ Projects Delivered
+20+ Years Track Record
+
+At Sumeru, we believe that cybersecurity goes beyond mere compliance; it's the bedrock of trust that every business needs. 
+
+Instead of treating it as a checklist, we integrate robust security measures into the very fabric of your operations, ensuring that every application and development phase is fortified against threats. This proactive approach not only protects your assets but also builds confidence with your clients and partners
+
+Key Partnerships: 
+AWS, Microsoft, Google Cloud Platform, ZScaler, CATO networks, PCA, appviewx, Adaptive, Drata, Vanta, Digicert
+
+Our Compliance Certifications (21+ certified)
+CISA, CISM, CRISC, OSCP+, OSWA, OSWP, CISSP, GDPR, OSCP, PWPA, SISE, OSWE, Red Team Expert, AppSec Pentester",
+  DCX,,,,,,
+services/dcx/accelerate-engagement,DCX,,Accelerate Engagement,,"Real Time Marketing Accelerates Customer Engagement​
+
+Awareness:
+Online Display
+Word of Mouth
+Radio, TV, Print Ads
+PR
+
+Consideration:
+Email
+Landing Page
+Direct Mail
+Store/Branch
+
+Purchase:
+Chat
+Community
+Mobile App
+
+Service:
+Retargeting
+Social
+Call Centre
+Promotion
+
+Loyalty:
+Survey
+Loyalty Program
+Newsletter
+Blog 
+
+Across all touchpoints: Agentic AI, Customer 360 (CDP), Marketing, Technology, Analytics, Operational Excellence",
+services/dcx/cover,DCX,,DCX — Cover,,Digital Customer Experience (DCX),
+services/dcx/customer-want,DCX,,What Customers Want,,"Are we hearing what customers want?
+
+What is a customer looking for today?
+1. A brand that is memorable, stays in their heart and connects with them emotionally
+2. A brand that ‘understands’ them
+3. A connected experience across touchpoints
+
+How do we help companies meet this desire?
+1. Hyper-personalization and segmentation to truly meet your customer where they are
+2. Insights to understand your ideal customer and communicate with them in a way that is relevant and meaningful
+3. A holistic omni-channel marketing strategy",
+services/dcx/experience-design/cover,DCX,Experience Design,Experience Design — Cover,"Experience Design Cover with accolades:
+Top Rated Plus on Upwork, Web Excellence Award 2025",Experience Design,
+services/dcx/experience-design/impact-of-poor-ux,DCX,Experience Design,Impact of Poor UX,,"Impact of Poor User Experience 
+
+$1,420,300,000,000
+Lost globally because of Bad UX
+
+35% of digital customers abandon their orders
+100x The cost of fixing an error after development
+33% Increase in development time and costs
+
+Source: https://s3.amazonaws.com/coach-courses-us/public/theuxschool/uploads/The_Trillion_Dollar_UX_Problem.pdf",
+services/dcx/experience-design/intro,DCX,Experience Design,Experience Design — Intro,,"Good design communicates.
+Great design moves.
+Design without impact is not design.",
+services/dcx/experience-design/our-work,DCX,Experience Design,Experience Design — Our Work,,"Our Work
+
+healthcare & wellness:
+EMAIL DESIGN
+WEB DESIGN
+MOBILE APP DESIGN
+PRODUCT DESIGN
+UX RESEARCH
+
+10+ Healthcare clients incl. Fortune 100
+10M+ Total Annual Audience
+250+ Creative Assets designed
+
+Education:
+WEB DESIGN
+UX AUDIT
+GRAPHIC DESIGN
+PUBLICATION DESIGN
+
+8+ U.S. Universities Serviced
+5M+ Total Annual Audience
+20% Avg. Increase in Organic Traffic
+
+E-COMMERCE:
+WEB DESIGN
+UX AUDIT
+GRAPHIC DESIGN
+APP DESIGN
+USER TESTING
+PACKAGING DESIGN
+
+15+ Brands Serviced
+100K+ Total Monthly Audience
+05% Avg. Increase in Conversion",
+services/dcx/experience-design/roi-of-ux,DCX,Experience Design,ROI of UX,,"The ROI of User Experience
+Investing in design isn't just about aesthetics—it's a bold declaration that you are committed to providing a positive experience for your customer. This commitment is what separates the legends from the forgettable.
+
+1. User Experience design has a high correlation with company revenue growth.
+2. Research shows that every $1 invested in UX brings $100 in return, 9,900% of ROI.
+3. Well-designed UI could increase the website conversion rate by 200%, and user-friendly UX design can bring the conversion rate up to 400%.",
+services/dcx/experience-design/testimonials,DCX,Experience Design,Experience Design — Testimonials,,"What our Customers Say
+
+""Sumeru’s work helped bring clarity and structure to our vision, and they delivered clean, thoughtful designs that aligned well with our brand."" 
+Brian Gelhaus  Sr. Director of Web, HawkeMedia
+
+""Sumeru has been great to work with, they are extremely efficient and creative. We've worked together for 2+ years and they're able to easily work within our scope, feedback and technical constraints while creating excellent designs.""
+Noah Kramer Creative Director, KWall
+
+""Development was paused because I was worried about the UI and overall design. I was lucky enough to find Sumeru. Within a month, they helped my vision come to life.""
+Anjali Purkayastha,  Founder, All Tails Care",
+services/dcx/framework,DCX,,DCX Framework,"3 Column table with Consulting, Design & Build, and Operate as columns","DCX Framework
+
+CONSULTING
+Customer Journey Mapping > Website
+eMail
+SMS
+Call Centre
+Mobile App
+Store/ Kiosk
+Social Media
+Others
+
+
+Customer Marketing Maturity Assessment > 
+DESIGN & BUILD
+Customer Marketing
+Maturity Assessment
+Omnichannel Marketing
+Personalization
+Measurement And ROI
+Contextual Marketing
+
+Infrastructure and Technology Readiness > 
+DESIGN & BUILD
+Marketing Stacks
+Salesforce Cloud, Adobe Cloud, GCP, Oracle, Hubspot, Braze ​
+
+OPERATE
+Business Services
+Sales and Marketing
+Customer Service
+Service and Support
+Operations
+Digital",
+services/dcx/state-of-dcx,DCX,,State of DCX,,"The State of Digital Customer Experience (DCX)
+
+Top 5 Challenges for Marketers
+Real-time Customer Engagement: Meeting expectations for seamless, personalized interaction across channels.
+Innovation Pressure: Keeping ahead with AI-driven solutions and evolving marketing tech.
+Cohesive Customer Journeys: Integrating experiences across multiple touchpoints.
+Cross-Functional Collaboration: Overcoming organizational silos for unified marketing efforts.
+Measuring Marketing ROI: Attribution and effectiveness remain complex challenges.
+
+Top 5 Challenges in  Marketing Technology
+AI-Powered Personalization: Driving tailored experiences at scale with agentic AI.
+Integrating Martech Stacks: Enabling seamless data flow and unified customer insights.
+First-Party Data Strategy: Building privacy-compliant data foundations beyond third-party cookies.
+Real-Time Analytics: Unlocking actionable insights for dynamic decision-making.
+Privacy and Security: Ensuring data protection while maintaining engagement.
+
+Top 5 Challenges in  Marketing Tech & Analytics
+Data Silos and Quality: Disconnected systems hinder full customer visibility and accurate insights.
+Attribution Complexity: Multi-channel data complicates performance measurement.
+Skill Gaps: Bridging marketing, tech, and analytics expertise in teams.
+AI & Predictive Analytics Adoption: Balancing innovation with technical and ethical considerations.
+Governance & Privacy Compliance: Managing data responsibly amid evolving regulations.",
+services/dcx/trifecta,DCX,,DCX Trifecta,"A venn-diagram of 3 pillars: Marketing Expertise, Technical Expertise, Analytics Expertise with Operational Excellence in the middle","The DCX Trifecta
+
+We bring together marketing strategy, technology and operational excellence to drive performance, and support clients with results-oriented implementation and managed services.
+
+Marketing Expertise
+A strategic marketing and human-centered design approach helps organizations become truly customer-centric by leveraging data insights, analytics and strategy
+
+Analytics Expertise
+A strong measurement analytics framework as the foundation behind marketing and technology
+
+Technical Expertise
+Certified marketing automation engineers, help clients “Sweat the Assets”
+
+Operational Excellence",
+services/dcx/why-dcx,DCX,,Why DCX,,"Why DCX Matters
+
+""The vision is to create a space for us in our customers’ hearts by truly personalizing their experience in realtime""
+
+""What matters is the perception customers take away.""
+
+Did you know?
+
+86% of customers say an emotional connection makes them continue doing business with a brand
+33% of marketers are satisfied with their ability to create more relevant experiences with customer data
+29% of customers who have a service related issue are four times more likely to turn to a competitor",
+  DATA & ANALYTICS,,,,,,
+services/data-analytics/capabilities,Data & Analytics,,Data & Analytics Capabilities,,"Data & Intelligence Analytics Capabilities​
+
+Data Acquisition & Ingestion:
+Real-time data ingestion pipelines from multi-modal sources (APIs, IoT, logs, OSINT).​
+Edge and cloud connectors for secure, scalable data capture.​
+Automated data sourcing with compliance and privacy safeguards.
+
+Data Engineering & Management
+Data lakes / lakehouse architecture design and implementation.​
+ETL/ELT pipelines with schema harmonization, metadata, and lineage tracking.​
+Data governance, access control, and compliance automation.
+
+Advanced Analytics & Modeling
+Machine learning and AI model development for predictive and prescriptive insights.​
+Graph analytics, NLP, and computer vision for deep intelligence extraction.​
+MLOps frameworks for scalable model training, deployment, and monitoring.
+
+Intelligence Fusion & Experience Layer
+Knowledge graph construction and multi-source correlation.​
+Real-time dashboards, geospatial mapping, and alerting systems.​
+Immersive visualization with AR/VR and digital twin simulations.
+
+Decision Support & Continuous Intelligence
+Decision intelligence platforms with “what-if” scenario planning.​
+Automated workflows and orchestration integrating intelligence into operations.​
+Continuous intelligence loops with feedback-driven model refinement.",
+services/data-analytics/cover,Data & Analytics,,Data & Analytics — Cover,,Data & Intelligence Analytics Capabilities​,
+  MICROSOFT,,,,,,
+technology/microsoft/cloud-services,Microsoft,,Microsoft Cloud Services,,"End to End Cloud Transformation Services
+
+Cloud Advisory:
+Cloud Strategy
+Cloud Roadmap
+Cloud Solution
+Cloud Architecture Analysis
+Cloud Security 
+Cloud Governance
+Cloud Business Case
+Cloud Management Platform
+
+Modernization & Migration:
+Assess and Plan
+6’R Methodology
+Cloud Build
+Target Architecture Design
+Landing Zone & Platform Build
+Cloud Migration  (Lift & Shift , Re-Shift)
+Business Application/ SAP & Workloads Migration
+
+
+Cloud Operate:
+Platform led Cloud Service Delivery 
+Cloud Management & Monitor
+Cloud AI Ops  (Cloud Ops & AI Ops) 
+Automation & Optimization
+Cloud Security Operation
+
+
+Cloud Security:
+Continuous Security Monitoring
+IDM as a Service
+Governance Risk & Compliance
+Data Protection & Privacy policy implementation
+Threat & Vulnerability Scanning
+
+Cloud Governance:
+Financial Governance
+Technology Governance
+Service delivery Governance
+Security and Compliance Governance
+Application Governance
+Resource Governance",
+technology/microsoft/engagement-blueprint,Microsoft,,Microsoft Engagement Blueprint,,"Engagement Blueprint - Onsite / Offshore / Nearshore
+
+Processes:
+Governance
+Monthly Reviews
+Quarterly Reviews
+Monthly/Quarterly Joint planning Sessions
+Delivery Excellence
+Quality Control
+Process Standardization & Optimization
+Process Automation
+Capacity Planning & Ramp Up/ Down
+Knowledge Mgmt.
+Performance Analysis & Reporting
+
+
+Customer Commercial Lines of Business:
+- Health & Life Sciences
+- Financial  Services
+- Communities, Energy, and Infrastructure
+
+Executive Leadership Team
+- Project  Sponsor
+- Executive Leadership & Business Owners
+- Client Engagement Partner
+- Sumeru Delivery Head
+
+Core Group
+- Customer Tech Leadership
+- Customer Business SMEs
+- Program Manager
+- AI & Innovation CoE
+- Technical Architects & Business Analysts
+
+Workstreams - Scrum Team - 1...N (India + USA)
+🇺🇸 + 🇮🇳 
+Dev
+
+🇺🇸 + 🇮🇳 
+QA
+
+🇺🇸 + 🇮🇳 
+DevOps
+
+🇺🇸 + 🇮🇳 
+UI/UX
+
+Sumeru CoEs:
+App/ Product Engineering
+Data and AI
+Quality Engineering
+UI/UX
+DevOps
+AI and Automation",
+technology/microsoft/intro,Microsoft,,Microsoft — Intro,,"Microsoft
+
+In a tech-driven era, success needs more than tools—it needs a partner to turn challenges into opportunities. Microsoft services lead in cloud innovation with scalability, security, and agility, but navigating them can be tough. Sumeru’s Microsoft consulting simplifies this, helping you maximize your digital investments.
+
+5 Industry Verticals
+40+ Customers
+20+ Active Engagements
+200+ MS Professionals
+
+Digital Design Experience
+Product Strategy / Roadmap
+Experience Design
+UX and User Journeys
+UI Design & Wireframes
+A/B Testing
+GenAI powered Invisible Interfaces
+
+Full Stack Engineering
+Full Stack Development
+Microsoft Stack / .Net
+Open Stack / Python
+React, Node, Angular
+Mobile Native / Hybrid Apps
+IoT Solutions (Device to Cloud)
+
+Cloud-Native Engineering
+Azure / AWS
+Hybrid Cloud Integration and Management
+API Design, Security & Performance
+Containerized Microservices with Kubernetes
+
+Quality  Engineering
+Automated Testing Solutions
+Independent Verification & Validation
+Mobile Test Labs
+DevSecOps Pipelines
+SRE & Observability Solutions
+
+Product Ops & Support
+L1 Product Helpdesk
+L2 Product Support
+L3 Product Enhancements
+
+
+Image: Microsoft Solutions Partner - Digital & App Innovation Azure
+Image: Microsoft Solutions Partner - Infrastructure Azure",
+technology/microsoft/ms-azure,Microsoft,Azure,Microsoft Azure,Circle divided into 6 parts with Microsoft in the centre,"Digital Transformation with MS & Azure
+
+1. Cloud Data Platform  |  Power BI  |  AI  |  ML
+2. Office  |  Teams  |  Sharepoint
+3. Cloud-Native  |  Modernization
+4. Dynamics 365  |  Power Platform
+5. Azure DevOps  |  Repos  |  Pipelines
+6. Datacenter  |  Application Integration
+
+Engage Customers
+Empower Employees
+Transform Products
+Optimize Operations",
+  PRODUCT ENGINEERING,,,,,,
+services/product/capabilties,Product Engineering,,Product Engineering Capabilities,,"Digital Product Engineering Capablities​
+
+Product Strategy & Experience Design
+Product roadmapping, market-fit analysis, and innovation strategy.​
+Human-centered UX/UI design, prototyping, and journey mapping.​
+Design sprints, co-creation workshops, and digital product blueprints.
+
+Platform & Architecture Engineering
+Cloud-native and microservices-based product architectures.​
+API-first, event-driven, and serverless platform engineering.​
+Scalable, secure, and compliant infrastructure design.
+
+Agile Development & Integration
+Full-stack development across web, mobile, and emerging platforms.​
+DevSecOps and CI/CD automation for accelerated releases.​
+Seamless integration with enterprise systems and third-party ecosystems.
+
+Next-Gen Digital Technologies
+AI/ML-driven product features (recommendation engines, NLP, computer vision).​
+IoT, edge computing, and AR/VR integration for next-gen experiences.​
+Blockchain and Web3 enablement for trusted digital ecosystems.
+
+Continuous Delivery & Product Evolution
+Continuous testing, monitoring, and performance optimization.​
+Product analytics and feedback loops for iteration and scaling.​
+Ongoing support, modernization, and feature evolution.",
+services/product/cover,Product Engineering,,Product Engineering — Cover,,Digital Product Engineering​,
+services/product/platforms/cover,Product Engineering,Platforms,Platforms — Cover,,Sumeru Proprietary Platforms & Accelerators,
+services/product/platforms/d2i,Product Engineering,Platforms,Platform — D2I,,"Dream to IPO (D2I) 
+
+We help companies worldwide turn their ideas into great mobile and web apps that are simple, beautiful, and easy to use. 
+
+18+ Years  Track Record
+50+ Ruby on Rails  Developers
+1000+ Apps  Shipped
+90% of our 100+ clients  are references
+
+OUR SERVICES
+Application  Development
+Migration to  Ruby on Rails
+Upgrade to latest  Ruby on Rails
+Quality Assurance & Testing
+Ruby on Rails App Maintenance
+Further  Development",
+services/product/platforms/flexbase,Product Engineering,Flexbase,Platform — Flexbase,,"Flexbase
+
+High productivity accelerator for building enduring enterprise applications​
+Flexbase is a .NET accelerator that automates code generation to free up developer time for core business logic.  Used together, Flexbase and AI tools can help enterprises deliver high-quality software at speed— seamlessly delivering automation with intelligence, standardization with adaptability, and velocity with reliability.
+
+Key Features
+Code Generation: Automates 70%+ of the code, saving engineering time.​
+Decoupled Infrastructure: Business logic is separate from infrastructure, enabling easy updates.​
+Fail-Safe Design: Built-in resilience and audit trail for secure, scalable applications.
+
+Value Delivered​
+Speed: Rapid development with minimal manual coding​
+Simplicity: Ease of updates and complex workflows without regression risks.
+Enhances efficiency of AI coding tools
+Accelerates digital transformation , innovation without sacrificing architectural rigor and consistency
+Minimizes technical debt
+
+What’s Different About FlexBase
+A flexible architecture that supports multi-tenant and single-tenant models, plus dynamic workflows and state machine integration.",
+services/product/platforms/flexbase/architecture,Product Engineering,Flexbase,Flexbase — Architecture,,"Digital Transformation: AI-Led with robust architecture
+
+Accelerate digital transformation and innovation without sacrificing architectural rigour and consistency.
+
+AI-First capabilities:
+
+Legacy Migration:
+- PHP
+- Java
+- Python > .NET 10
+
+BRD to Code
+- Extract details > Modules and features
+- AI assisted code > Faster and accurate
+
+Natural Language
+- Describe intent > Modules & features
+- AI-assisted code > Faster & accurate
+
+ARCHITECTURE BUILT-IN:
+Clean Architecture
+CQRS Pattern
+Domain-Driven Design
+Event-Driven
+Multi-Tenancy
+OpenTelemetry
+Full Audit Trail
+Modular>Microservices",
+services/product/platforms/flexbase/enterprise-grade,Product Engineering,Flexbase,Flexbase — Enterprise Grade,,"Enterprise Grade Production and Resilience Framework
+
+37+ Production ready providers:
+
+AI Providers
+AZURE OPENAI
+OPENAI
+ANTHROPIC
+GEMINI
+OLLAMA
+
+DATA STORES:
+COSMOS DB
+MONGODB
+DYNAMBODB
+NEO4J
+INFLUXDB
+ELASTICSEARCH
+
+VECTOR SEARCH & RAG:
+AZURE AI SEARCH
+OPENSEARCH
+PGVECTOR
+SQL VECTOR
+
+MESSAGE BUS & CLOUD:
+RABBITMQ
+AZURE SB
+AWS SQS
+AZURE BLOB
+AWS S3
+GCP CLOUD
+
+Enterprise resilience:
+Circuit Breaker
+Retry Policies
+Timeouts
+Bulkhead",
+  SAP,,,,,,
+technology/sap/btp,SAP,BTP,SAP BTP,,"SAP Capabilities - BTP
+
+Service Offering
+
+Process Automation:
+SAP Build Process Automation (Workflows + RPA)
+Intelligent document processing
+Business rules & approvals automation
+Legacy & non-SAP process automation
+
+App Development
+Low-code apps using SAP Build Apps
+Pro-code apps using CAP (Node.js/Java)
+Fiori/UI5 application development
+API-first & microservices-based design
+
+Cloud Applications
+SAP BTP Extension Suite
+Side-by-side extensions for S/4HANA
+SAP Integration Suite (CPI, API Mgmt, Event Mesh)
+Cloud security, identity & access management
+
+Chatbots
+SAP Conversational AI / Joule-ready chatbots
+HR, IT, Finance & Procurement bots
+SAP & non-SAP system integration
+Multilingual & omnichannel bots
+
+Portals and Mobile Apps
+Enterprise portals using SAP Build Work Zone
+Supplier, partner & customer portals on SAP BTP
+Mobile application development (iOS / Android / Hybrid)
+Fiori-based responsive applications
+Role-based access & personalization
+Secure integration with SAP & non-SAP systems
+
+Use Cases:
+
+Process Automation:
+Invoice & PO processing
+Employee onboarding
+Master data governance
+Compliance & audit workflows
+
+App Development
+Custom extensions for S/4HANA
+Mobile-first business apps
+Partner & supplier portals
+Approval & analytics dashboards
+
+Cloud Applications
+SAP–non-SAP integrations
+Event-driven business processes
+Industry-specific extensions
+Cloud modernization
+
+Chatbots
+Employee self-service
+Procurement & order status queries
+IT service desk automation
+Customer support assistants
+
+Portals and Mobile Apps
+Supplier & partner collaboration portals
+Employee self-service portals
+Customer engagement & service portals
+Mobile approvals & workflows
+Field service & sales mobility apps",
+technology/sap/capabilities,SAP,,SAP Capabilities,,"SAP Capabilities
+
+SAP Core Product Focus:
+SAP S/4HANA
+SAP BTP
+GROW WITH SAP
+SAP Cloud Platform Integration Suite
+
+AI, Automation and Analytics:
+SAP Joule
+SAP Datasphere
+SAP Signavio
+SAP Analytics Cloud
+
+Solution Focus:
+ERP Transformation (SAP vs non-SAP)
+S/4HANA Assessment and Readiness
+Business Transformation
+FIORI Capability / User Experience
+Integration Transformation
+
+Services:
+Implementation
+Seamless integration of SAP tailored to your business needs.
+
+Support
+Ongoing support ensuring your SAP system runs smoothly.
+
+Training
+Comprehensive training programs to empower your team.",
+technology/sap/cover,SAP,,SAP — Cover,SAP,SAP,
+technology/sap/edi,SAP,EDI,SAP EDI,,"SAP Capabilities - EDI
+
+SAP Platforms Supported:
+SAP S/4HANA (Private & Public Cloud)
+SAP ECC (migration & coexistence)
+SAP Ariba Buying & Invoicing
+SAP Business Network
+SAP BTP Integration Suite (CPI)
+Third-party EDI VANs & providers
+
+EDI Document Types:
+Purchase Orders (850 / ORDERS)
+Order Confirmations (855 / ORDRSP)
+Advanced Shipping Notices (856 / DESADV)
+Invoices & Credit Memos (810 / INVOIC)
+Payment Advice (820 / REMADV)
+Inventory & Forecast messages
+Custom industry-specific EDI messages
+
+Sumeru Service Offering
+
+EDI Strategy and Advisory:
+EDI landscape assessment
+Trading partner analysis & segmentation
+EDI vs SAP Business Network recommendation
+Migration strategy (Legacy EDI → SAP BTP / Business Network)
+
+SAP EDI Implementation: 
+IDoc configuration & enhancement
+Message mapping & transformation
+Communication setup (AS2, SFTP, HTTPS)
+End-to-end testing & partner certification
+Error handling & monitoring setup
+
+SAP BTP-Based EDI Integration:
+SAP Integration Suite (CPI)-based EDI flows
+Cloud-native mapping & orchestration
+Secure connectivity to EDI providers (OpenText, SPS, Seeburger, etc.)
+Event-driven & API-enabled EDI extensions
+
+Migration & Modernization:
+ECC EDI to S/4HANA conversion
+Legacy middleware replacement
+On-premise EDI to cloud migration
+Performance tuning & scalability improvements
+
+Support & Managed Services:
+24×7 EDI monitoring & incident management
+Trading partner issue resolution
+Volume scaling & seasonal readiness
+Continuous improvement & optimization",
+technology/sap/fiori,SAP,Fiori,SAP Fiori,,"SAP Capabilities - FIORI
+
+Capability Offerings:
+Drive Digital Transformation with a Strategic Fiori Adoption Approach.
+Agile Implementation for Greenfield and Brownfield Migrations and Upgrades.
+Transitioning to Embedded Gateway Architecture.
+Integration with Other Solutions like SAC, GRC
+End-to-End Solutioning for Fiori
+Utilization of Low-Code and Pro-Code Approaches
+Utilization of  Upgrade stable Clean core extension approaches
+
+Proficiency
+
+Low Code/No Code Solutions:
+SAP Build
+SAP Build Process Automation 
+
+SAP BTP Cloud Solutions
+Cloud Application programming Model (CAP)
+SAPUI5
+Node.js 
+ABAP on Cloud 
+Core Data Services.
+
+SAP On Premise Solutions
+RAP (Restful application programming)
+Core ABAP
+oData
+SAPUI5",
+technology/sap/intro,SAP,,SAP — Intro,,"SAP​
+
+Sumeru provides comprehensive SAP consulting services to help businesses optimize their operations and drive growth. Our team of certified SAP professionals bring deep expertise to deliver tailored solutions that meet your unique needs. Whether you’re looking to implement a new SAP system or optimize your existing setup, we ensure seamless integration and smooth transformation for maximum efficiency.​ 
+
+Our Core Specializations​:
+SAP ABAP​ 
+SAP CPI Integration ​ 
+SAP Business One (B1)​ 
+SAP Fiori​ 
+SAP Analytics​ 
+SAP BTP​ 
+SAP S/4HANA​ 
+
+SAP Optimization & Performance Enhancement Advisory 
+Unlock your SAP system's full potential with expert guidance on performance improvement, cost reduction, and continuous optimization. 
+
+Expert Guidance for SAP ECC to S/4HANA Migration 
+Successfully transition to SAP S/4HANA with strategic planning, seamless data migration, and ongoing post- migration support. 
+
+Managing Multi-Vendor SAP Implementations​ 
+Seamlessly integrate multi-vendor solutions with expert management, risk mitigation, and cohesive strategy development.​ 
+
+Comprehensive SAP Support for Operational Teams 
+Empower your teams with end- to-end support, system optimization, and effective training to drive operational excellence",
+technology/sap/p2p,SAP,P2P,SAP P2P,,"SAP Capabilities - P2P( Procure to Pay )
+
+
+SAP S4 HANA - Core P2P:
+Purchase Requisition (PR) & Purchase Order (PO) processing
+Goods Receipt & Service Entry Sheet handling
+Invoice Verification & Matching
+Integration with Finance (AP) for payments
+Fiori user experience for modern procurement tasks
+
+SAP Ariba - Buying and Invoicing:
+Consumer-grade guided buying experience
+Catalog & contract compliance
+Supplier and invoice management
+Workflow approvals and automated invoice matching
+Centralized invoice visibility across spend
+
+SAP Ariba - Source to Pay:
+Ariba Sourcing – RFx, event management & award
+Ariba Contracts – Contract creation, negotiation, and compliance
+Ariba Buying & Invoicing – P2P execution
+
+SAP Business Network - Formerly Ariba Network:
+PO collaboration, order confirmations & advanced shipment notices
+Electronic invoice exchange and payment notices
+Supplier onboarding & master data enrichments
+
+Sumeru Service Offering
+
+SAP S4 HANA - Core P2P:
+• SAP S/4HANA P2P implementation (Private & Public Cloud) 
+• Greenfield, Brownfield & Selective carve-out 
+• MM, FI-AP, Inventory & Service Procurement configuration 
+• Fiori-based UX enablement & role design 
+• Clean Core & extensibility strategy using SAP BTP • S/4HANA P2P optimization & performance tuning 
+• ECC → S/4HANA procurement transformation
+
+SAP Ariba - Buying and Invoicing:
+• SAP Ariba Buying & Invoicing implementation 
+• Guided Buying enablement • Catalog enablement (hosted, punch-out, CIF) 
+• Invoice automation (PO & non-PO) 
+• Approval workflow design & optimization 
+• Supplier invoice adoption programs 
+• Ariba–S/4HANA integration (CIG / SAP Integration Suite) 
+• End-to-end Ariba S2P implementation
+
+SAP Ariba - Source to Pay:
+• Ariba Sourcing 
+• Ariba Contracts 
+• Ariba Buying & Invoicing 
+• RFx, auction & award strategy design 
+• Contract lifecycle management (CLM) 
+• Spend analysis & sourcing wave planning 
+• Policy-driven sourcing & contracting 
+• S2P process harmonization across regions 
+• SAP Business Network onboarding strategy
+
+SAP Business Network - Formerly Ariba Network:
+• Supplier segmentation & enablement waves 
+• PO, ASN & Invoice collaboration enablement 
+• Network subscription & transaction advisory 
+• Supplier communication & adoption support 
+• Custom supplier portals (via SAP BTP) 
+• Business Network + Ariba + S/4HANA integration",
+  SALESFORCE,,,,,,
+technology/salesforce/approach,Salesforce,,Salesforce Approach,A infinity symbol creatively designed to be split into 6 parts reflecting our 6S strategy,"The 6S Sumeru Delivery Approach
+
+Strategizing
+Design Thinking
+Org Strategy
+Solution Blueprints
+Discovery Workshops
+Stakeholder Alignmen
+
+Synchronizing
+Iterative Build, Configure, and Implement
+Test and Deploy
+
+Scaling
+Innovation
+Rollout & Adoption
+Training Workshops
+
+Synergizing
+Health Check
+System Audits
+Product Evaluation
+Business Assessment
+
+Sustaining
+KPI Evaluation
+Continuous Support
+Ongoing Innovation
+
+Solutioning
+Project Planning
+System Architecture
+Functional Specification
+Governance Model
+Roadmap and Execution Strategy",
+technology/salesforce/commerce-cloud/cover,Salesforce,Commerce Cloud,Commerce Cloud — Cover,Sumeru Salesforce Commerce Cloud Cover,Sumeru Salesforce Commerce Cloud,
+technology/salesforce/commerce-cloud/offerings,Salesforce,Commerce Cloud,Commerce Cloud — Offerings,,"Sumeru Offering for SFCC
+
+UI/UX Expertise:
+We design storefronts that convert browsers into buyers, not just look good
+Deep expertise in responsive ,intuitive UI/UX design
+Brand focused UI/US framework
+Conversion focused user journey
+Mobile-first, performance-driven UX built for speed, scale, and engagement
+
+
+E-commerce Functional knowledge:
+End-to-end Salesforce Commerce Cloud delivery—from strategy to go-live and beyond
+Deep functional expertise across catalogs, pricing, promotions, checkout, and fulfillment
+Continuous optimization to maximize ROI from your Salesforce investment
+
+Integration Capability:
+We connect your eCommerce platform to ERP, CRM, OMS, PIM, and payments—cleanly and securely
+Real-time integrations that eliminate data silos and manual reconciliation
+Middleware expertise in Mulesoft,Webmethod, SAP BTP, Biztalk
+Deep expertise on various ERP backend : SAP,Oracle,IFS,Navision,QAD",
+technology/salesforce/cover,Salesforce,,Salesforce — Cover,"Salesforce Cover
+Salesforce Crest Consulting Partner
+Salesforce App Exchange 4.96/5.0 Stars",Salesforce,
+technology/salesforce/customers,Salesforce,,Salesforce Customers,,"What our Customers Say
+
+""Sumeru’s level of expertise, professionalism and dedication to helping meet our goals have been a great asset to us.""
+
+""The Sumeru team was extremely professional and went out of their way to make us feel we were truly working together on this project.""
+
+""We worked with the Sumeru team for over 2 years. They've managed to help us in all aspects of SFMC, with journey, datorama dashboards, and even built us a fully customized and dynamic preference center. Sumeru has been a great managed services partner over the past few years, highly recommend for their talent and attention to customer satisfaction.""
+- Verto Education
+
+""Sumeru helped us with a major blocker in our SMS implementation. They helped us wrap up a year long initiative is just 3 months with their high-end expertise. They are one of the most professional teams I've worked with and I'm excited to have them as our vendor.""
+Abbott Laboratories
+
+""The Sumeru team was helpful in streamlining our email communications and managing our daily email cadences. They were able to produce high-quality work with quick turnaround times. Their consultation on improving our campaign strategies, email designs, and content was thorough and helped improve our KPIs""
+Snagajob",
+technology/salesforce/intro,Salesforce,,Salesforce — Intro,,"Salesforce
+
+50+ Consultants Globally — USA, Canada, India
+250+ Succesfull Engagements
+170+ Certifications
+4.96/5 CSAT
+
+Industry Focus
+Healthcare & Life Sciences
+Consumer Goods & Retail
+Media & Entertainment
+Education
+Public Sector - State & Local Gov
+Financial Services
+Manufacturing
+Utilities
+Information Technology
+
+Product Focus
+Sales Cloud
+Experience Cloud
+Agentforce 360
+Service Cloud
+Commerce Cloud
+Data 360
+Marketing Cloud
+Manufacturing Cloud
+Field Service
+Revenue Cloud",
+technology/salesforce/intro-v2,Salesforce,,Salesforce — Intro V2,,"Salesforce Capabilities
+
+
+Comprehensive Salesforce Solutions for Every Need
+
+Sales Cloud
+Service Cloud
+Revenue Cloud (CPQ)
+Field Service
+Experience Cloud
+Manufacturing Cloud
+Commerce Cloud
+
+Industry Focus:
+Manufacturing
+Hi-Tech
+Consumer Goods 
+Automotive
+
+Differentiators: 
+Solution Design Best Practice for Sales, service, field service , CPQ.
+Industry Best Practice – Manufacturing, Consumer goods, Hi-tech, Automotive.
+Flexibility to execute project in agile, waterfall or hybrid.
+Ready to go solution centric JIRA stories in Sales, Service , Marketing. 
+
+Services:
+Implementation
+Support
+Strategy & Roadmap
+Org Remediation",
+technology/salesforce/why,Salesforce,,Why Salesforce,,"Why Sumeru for Salesforce?
+
+1. Cost-Effective Solutions
+Delivering high value while optimizing costs.
+
+2. Solution-Focused Expertise
+We combine deep industry knowledge with practical, outcome-driven solutions.
+
+3. Multi-Industry Leadership
+Proven experience across diverse industries — bringing insights that drive results.
+
+4. Involved Leadership
+Decision-makers and senior experts are engaged from day one.
+
+5. Flexible Resource Model
+Scalable, adaptable teams that align with your project needs. 
+
+6. Innovative Technology Enablement
+We leverage the latest tools and platforms to drive efficiency, innovation, and measurable business impact.",
+  TALENT,,,,,,
+services/talent/cloud-capability-positions,Talent,Positions,Cloud & Capability Positions,,"Cloud Capability Positions
+
+AWS:
+•	AWS Project Managers
+•	AWS Architect
+•	AWS Solution Architect
+•	AWS Developer
+•	AWS Admin
+•	AWS with Java Microservices
+•	AWS Integration BA (Techno Functional)
+•	AWS Engineer
+•	AWS Data Architect
+•	AWS Cloud Architect
+•	AWS, GitLab, CI concepts, Micro Services, Terrafirm
+•	AWS Platform Engineer
+•	AWS Network Engineer
+•	AWS Cloudera Admin
+
+Azure:
+•	MS Azure Cloud Admin
+•	Azure Architect
+•	Azure Infra Development
+•	Azure DevOps Engineer
+•	Azure Architect / Big Data
+•	Senior Azure Engineer / Architect
+•	Azure Data Factory
+•	Azure Cloud Architect
+•	Azure IaaS SME
+•	Cloud Architect [PaaS-Azure]
+•	Azure PaaS SME
+•	Azure DevOps Server Consultant
+•	Azure Cloud DevOps Engineer
+
+Google Cloud:
+•	GCP DevOps Engineer
+•	GCP Cloud Senior Architect
+•	Quantitative Strategies GCP
+•	Google Cloud Architect
+•	Cloud AI Platform Tech Sol. Consultant
+•	Google Cloud Data Engineer
+•	Cloud Threat Detection
+•	Strategic Cloud Engineer, Security
+•	GCP Workflow Engineer
+•	Architect: Google Cloud Microservices
+•	Big Data & Analytics Cloud Consultant
+•	Research Scientist, Machine Learning & Intelligence GCP
+
+
+IBM Cloud:
+•	Senior Cloud Solution Architect – IBM
+•	Hybrid Cloud Software Systems Engr. IBM
+•	Hybrid Cloud Int. Sales Spl – IBM Fin. Serv
+•	Cloud ETL Engineer – IBM
+•	Sn. Cloud Application & Solution Architect
+•	Hybd Cloud Data & AI Platform Evangelist
+•	Analyst Strategy – IBM Cloud Int Platform
+•	Complex Solution Architect – Multi-Cloud
+•	Full Stack Developer IBM Hybrid Cloud
+•	Senior Cloud Solution Architect
+•	IBM Cloud Data & AI User Research Manager",
+services/talent/cover,Talent,,Talent — Cover,,Talent Services,
+services/talent/engagement-lifecycle,Talent,,Talent Engagement Lifecycle,A flow diagram of 6 phases,"Engagement Lifecycle
+
+STAFFING
+Staffing process begins by understanding your business goals, the type of role you need filled, the mandate requirements of the candidate and what you expect from the candidate who will fil the open role.
+
+SOURCING
+After we establish the required roles, and level of urgency, our dedicated team of expert recruiters would optimize job descriptions and define the interview process.
+
+SELECTION
+We submit early profiles for you to review and then calibrate our search parameters before reaching out to tens of thousands of candidates. tI is done to make sure we choose the most suitable candidate to fil the vacant job position.
+
+SCREENING
+Our recruitment team would start to
+receive qualified applicants several times per day &accordingly would select the candidate's basis tests, interviews, etc.
+
+STATUS
+We would keep providing constant communication
+with qualified candidates, especially those you would be most interested in filling the position.
+
+SUBMISSION
+Upon selection by your team, we would perform necessary background checks and finalize compensation terms and contractual procedures.",
+services/talent/engineering-manufacturing-positions,Talent,Positions,Engineering & Manufacturing Positions,,"Engineering & Manufacturing Positions
+
+Mechanic
+Aircraft Maintenance D, Structures
+Aircraft Maintenance D, Electrical
+Aero-Repair (AR) Rigging Specialist
+Certified Engine Mechanic - C130
+Aircraft Maintenance C-130, Flightline
+Engine Mechanic - C130
+Electrical Installers
+C-130 Crew Chief
+Aircraft Maintenance D, Flightline
+Aircraft Maintenance Technician
+Aircraft Electrical Installer B
+Aircraft Maintenance C
+Aircraft Electrical Installer C
+
+Technical / Professional
+Sr Buyer
+Proposals, Business Analyst
+Specialist Integration Test Engineering
+Procurement - Expeditor
+Senior Technical Recruiter
+Quality Engineer
+System Safety Engineer
+Technical Writer, Aircraft Technical Publications
+Principal EMI-EMC Design Engineer
+Environmental Health/Safety Specialist
+Material Planner
+Specialist, Contracts
+Senior Mechanical (Pro/E) Designer
+Accounting Specialist
+Mechanical Engineer III
+Structural Dynamics Engineer Lead
+Sr Spec, Program Management
+Project Engineer
+Specialist, Manufacturing Engineering
+Mechanical Drafter
+Material Analyst 2
+Specialist, Accountant
+Senior Specialist, Configuration Management 
+Financial Analyst
+Specialist, Field Engineering
+Sales Representative
+Government Billing Consultant
+Production & Inventory Control Specialist
+
+Light Industrial
+Manufacturing Electrical Assembler
+Production Technician
+Composite Technician B
+Materials Controller
+Paint Specialist
+CNC Machine Operator
+Inventory Clerk
+Inventory Management Support
+Test Technician
+Material Handler
+Mechanical Assembler
+Shipping / Receiving Clerk
+Mechanical Inspector
+Facilities Technician A
+Manual Machinist
+Warehouse Support Specialist
+Electro-Mechanical Assembly Technician
+Expeditor
+Electronics Quality Inspector
+Quality Inspector
+
+Clerical / Admin
+Administrative Assistant
+Payroll Associate - Shared Services
+Configuration Control Clerk, Level C
+Document Control Specialist
+Billing Accountant
+Log / Records Administrator
+Junior Contracts Administrator
+Recruiting Coordinator
+Order Administrator
+Executive Assistant
+Financial Analyst – General Accounting
+Manufacturing Administration Support - Document Entry
+Data Entry/Administration Support
+Human Resources Support
+Accounts Receivable Associate",
+services/talent/enterprise-solutions,Talent,,Talent Enterprise Solutions,,"Enterprise Solutions
+
+SAP: 
+•	SAP FICO Consultant
+•	SAP BASIS Administrator
+•	SAP SuccessFactors Expert
+•	SAP Project Manager
+•	SAP Business Analyst
+•	SAP System Expert
+•	Associate, GRC Technology – SAP
+•	Azure SAP Specialist
+•	SAP TechnoFunctional Expert
+•	Administrator, SAP Hana Basis
+•	SAP Ariba/SAP MM Consultant
+•	SAP Implementation Specialist – Ariba
+•	Manager, GRC Technology – SAP
+•	Technical Program Manager – SAP
+
+
+Oracle:
+•	Sr. Cons/Principle Cons – Oracle App DBA
+•	Oracle EBS Developer/Apps DBS Modules
+•	Financial Functional Consultant 
+•	Financial Tech. Consultant 
+•	PL/SQL Dvp Analyst 
+•	Oracle Fusion Consultant
+•	ERP Oracle Cloud Consultant
+•	Senior Ass., GRC Technology 
+•	Advisory Fin. Services Oracle ERP Director
+•	ERP Cloud Senior Consultant
+•	ERP Cloud Financials – Consultant
+•	Manager – Oracle Cloud Integration Lead
+
+Salesforce:
+•	Salesforce Administrator
+•	Salesforce Business Analyst
+•	Technical Architect
+•	Project Manager/Lead
+•	Salesforce Data Specialist
+•	Salesforce Implementation Consultant
+•	Technical Program Manager – Salesforce Cloud
+•	Field Service Lightning Consultant
+•	Comm Cloud Technical Lead – Sn Consultant
+•	CRM & Platform Solution Architect
+•	Salesforce Marketing Cloud Architect
+
+
+Microsoft Dynamics GP:
+•	ERP Developer
+•	Business Analyst – ERP
+•	Software Implementer
+•	Senior Software Engineer
+•	ERP Consultant
+•	Sr Associate, Microsoft Dynamics 365
+•	Senior Associate, Service Transformation
+•	Microsoft Dynamics CRM Pre-Sales Solution Architect
+•	Microsoft Dynamics AX developer
+•	Sr. Microsoft Dynamics 365/AX Manufacturing  
+• Functional Consultant
+•	Sr. Microsoft Dynamics CRM Developer",
+services/talent/intro,Talent,,Talent — Intro,,"Talent that powers transformation
+
+20+​ Years
+
+We help global enterprises scale faster with top-tier consultants in Cloud, AI, Data, Cybersecurity, Mobility, and Enterprise Solutions—ready to deliver impact from day one.
+
+85% Repeat Business​
+5M+​ ATS Database​
+94%​ Client Retention​
+1.5M+​ Active vetted IT Profiles ​
+20,000+​ Professionals Deployed​
+5000+​ IT Placements through MSP/VMS​
+
+Industry Focus:
+Healthcare & Life Sciences
+Retail & Ecommerce
+Telecom
+Education
+Automotive
+Banking, Financial Services & Insurance
+Manufacturing
+Utilities
+Information Technology",
+services/talent/mobility-positions,Talent,Positions,Mobility Positions,,"Mobility Positions
+
+iOS:
+iOS Developer
+Senior Engineer – iOS
+React Native Developer – iOS
+iOS Developer – Hybrid App
+iOS Developer – Objective C/ Swift
+Engineer, iOS/ tv OS, Ad Integration
+and Architecture	
+Sr. Software Engineer – iOS
+Sr. iOS Developer
+Ionic Mobile Developer
+iOS Developer/Architect
+Lead iOS Engineer
+Senior iOS Developer – Swift/Objective	
+CTechnical Lead – iOS Developer
+iOS Developer – Swift/objective C
+React Native – iOS Developer
+iOS Developer – Mobile Development Framework
+iOS – Business Analyst
+
+Android:
+Android Architect
+Android Native Developer
+Senior Software Engineer
+Android Developer – Java/Rest API
+Lead Mobile Developer – Android
+Xamarin & WPF Developers	
+React Native Developer
+Android Developer  - Java/Kotlin/SDK
+Engineering Manager – Apps (iOS,
+Android, Web)
+Full stack Engineer
+Android Developer – Object Oriented	
+Flutter/ Mobile Application - Developer
+Sr. & Lead Android Developer
+Android Developer Java on Linux
+Embedded Android Developer
+Senior Android Developer Kotlin
+Android Project Managers",
+services/talent/quality-validation-positions,Talent,Positions,Quality & Validation Positions,,"Quality and Validation Positions
+
+Process / Manufacturing Validation:
+Validation Engineer (Process / Equipment) 
+Senior Validation Engineer
+Computer Systems Validation Engineer
+Process Quality / Validation Engineer
+
+Quality Engineering & Assurance:
+Quality Engineer I / Associate Quality Engineer
+ Quality Engineer II / Senior Quality Engineer
+Quality Assurance Manager
+Development Quality Engineer
+
+CAPA / Compliance / Risk Management:
+Associate CAPA Engineer
+Risk Management Engineer II
+QA/Compliance Specialist
+
+Supplier/External Quality:
+Supplier Quality Engineer / Senior Supplier Quality Engineer
+Component Supplier Quality Engineer
+
+Software / Diagnostics / Medical Device Quality:
+Software Quality Engineer II 
+Senior Software Design Assurance Engineer (Medical Device)
+
+Validation Engineer
+Senior Validation Engineer
+Computer Systems Validation Engineer
+Quality Engineer
+Senior Quality Engineer
+Associate CAPA Engineer
+Risk Management Engineer",
+services/talent/recruitment-model,Talent,,Talent Recruitment Model,,"Recruitment Model
+
+Tailored Solutions for Contract, Temp-to-Hire, and Direct Placement
+Expect resumes within 48 hours after sharing requirements
+Highly qualified profiles are vetted through AI-driven ATS technologies
+Client-Centric Approach with Dedicated Account Managers
+Long-Term Partnership and Post-Placement Support
+
+(A Complex image of the recruitment process flow)",
+services/talent/tech-positions,Talent,Positions,Tech Positions,,"Technology Positions
+
+AI & ML
+AI Developer / Programmer
+Data Scientist
+QA Automation Tool Developer - for AI
+AI Engineer
+Deep Learning Engineer
+UX Designer for AI products
+Applied Research Scientists
+Machine Learning Engineer
+Natural Language Processing Specialist AI
+Machine Learning – Research Scientists
+Application Research, Developer
+Operation Research – Research Scientist
+Application Research & Quality Assurance",
+services/talent/workday-services/case-studies,Talent,Workday,Workday Case Studies,,"Workday Case Studies 
+
+Streamlined Integrations for a F500 Healthcare Firm
+Streamlined Workday integrations for a F500 Healthcare firm, consolidating payroll integrations across 86 countries
+Freed client team to focus on strategic business initiatives
+Ensured seamless weekly execution of critical payroll integrations
+
+Stabilizing a Workday HCM Environment Post-Acquisition
+Stabilized the Workday HCM environment
+post-acquisition by addressing immediate payroll issues,
+implementing root-cause solutions, and establishing a
+standard operating model.
+Achieved a stable Workday environment with significantly reduced payroll incidents
+Ensured smooth payroll administration for employees of the acquired entity
+
+Stabilizing Workday Finance for a Financial Services Firm
+Reconfigured the client’s Workday Finance environment automating critical workflows and enabling accurate, faster financial closes by eliminating manual process
+Stabilized Workday environment
+Fewer manual processes led to reduced errors and quicker financial close
+
+Consolidated Advanced Compensation Process for a Large Life Sciences Firm
+Streamlined compensation processes for a large Life
+Sciences firm by consolidating Merit, Bonus, and LTI
+processes into a single annual launch window.
+Enhanced efficiency by consolidating all processes into a single launch
+Provided a unified view of Merit, Bonus, and LTI for better decision-making and process management
+
+Implemented Time Tracking for  Multiple Countries
+Designed and implemented Time Tracking for multiple
+countries including Ireland, Mexico, South Africa etc.,
+replacing Kronos
+Ensured accurate time capture for payroll
+Paved the way for subsequent deployment of Workday Scheduling
+
+Streamlined Recruitment Process with Offer Letter Automation
+Streamlined the offer letter process for a large US firm by
+consolidating templates, automating workflows, and
+incorporating bilingual support.
+Increased efficiency and eliminated errors in the offer letter process
+Enhanced candidate experience through streamlined and accurate communication",
+services/talent/workday-services/intro,Talent,Workday,Workday Services — Intro,A circle divided into 4 quadrants desciribing our managed services,"Workday Services
+
+OUR SERVICES
+
+Advisory Services
+- Workday Implementation
+- Post-Deployment Support
+- Phase X Deployment
+
+Managed Services
+- Application Management Services
+- Ongoing Workday Environment Support
+- Workday Stabilization
+
+Staffing Services
+- Contract
+- Contract-To-Hire
+- Direct Hire
+
+1. Workday Specialists: Unparalleled expertise in Workday solutions
+2. Flexible Staffing Models: Tailored services for both short- and long-term needs
+3. Managed Services: End-to-end support, ensuring success across implementations
+4. Niche Skill Sourcing: Expertise in Workday Prism, Adaptive Planning, Security, and more",
+services/talent/workday-services/managed-services,Talent,Workday,Workday Managed Services,,"Service Offerings - Managed Services
+
+Implementation Advisory
+- Mitigate Implementation Risks
+- Impact Analysis of Key Design Decisions
+- Business Transformation Consultation
+- Data Migration & Testing
+
+Stabilization
+- Fix Post Go-Live Issues
+- Stabilize Integrations
+- Reconfigure Business Processes
+- Clean Up Remaining Data Issues
+
+Optimization
+- Phase X Implementation
+- Add New Workday SKUs
+- Undertake Enterprise-Wide Changes
+- Manage Mergers, Acquisitions, and Divestitures
+
+Support
+- Different Models for Flexibility
+- Onshore-Offshore Model
+- SLA Adherence
+Ramp Up/Down as Required",
+services/talent/workday-services/why,Talent,Workday,Workday Services — Why,,"Why Choose us for Workday
+
+50+ Workday Consultants
+20+ Customers Served
+
+SPECIALISED AND EXTENSIVE TALENT POOL
+Our extensive database of Workday consultants and in-house talent pool allows us to quickly assemble the right team to fit your needs.
+
+FLEXIBLE STAFFING MODELS AND QUICK RESPONSE
+We offer staffing services tailored to the needs of your business. Bring on qualified talent quickly then convert them to your team for long-term support.
+
+MANAGED SERVICES
+We take ownership of engagements to ensure low risk and high success through our managed service offerings.
+
+NICHE SKILLS PROVIDER
+From Adaptive Planning to Prism and Extend, we are your one-stop shop to source any niche skill within the Workday ecosystem.",
